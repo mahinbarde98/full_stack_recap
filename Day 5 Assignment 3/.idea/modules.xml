@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 5 Assignment 3.iml" filepath="$PROJECT_DIR$/.idea/Day 5 Assignment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_mockito_testing_boilerplate/stack_mockito_testing_boilerplate.iml" filepath="$PROJECT_DIR$/stack_mockito_testing_boilerplate/stack_mockito_testing_boilerplate.iml" />
+    </modules>
+  </component>
+</project>

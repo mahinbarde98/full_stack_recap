@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 10 Assignment 2.iml" filepath="$PROJECT_DIR$/.idea/Day 10 Assignment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_kafka_boilerplate/deliveryboy/deliveryboy.iml" filepath="$PROJECT_DIR$/stack_kafka_boilerplate/deliveryboy/deliveryboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_kafka_boilerplate/end-user/end-user.iml" filepath="$PROJECT_DIR$/stack_kafka_boilerplate/end-user/end-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_kafka_boilerplate/stack_kafka_boilerplate.iml" filepath="$PROJECT_DIR$/stack_kafka_boilerplate/stack_kafka_boilerplate.iml" />
+    </modules>
+  </component>
+</project>

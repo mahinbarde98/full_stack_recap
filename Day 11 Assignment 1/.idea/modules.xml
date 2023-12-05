@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 11 Assignment 1.iml" filepath="$PROJECT_DIR$/.idea/Day 11 Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/address-service/address-service.iml" filepath="$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/address-service/address-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/eureka/eureka.iml" filepath="$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/gateway/gateway.iml" filepath="$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/portal-service/portal-service.iml" filepath="$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/portal-service/portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/stack_fse_bridge_mc_microservice_log-aggregator.iml" filepath="$PROJECT_DIR$/stack_fse_bridge_mc_microservice_log_aggregator_boilerplate/stack_fse_bridge_mc_microservice_log-aggregator.iml" />
+    </modules>
+  </component>
+</project>

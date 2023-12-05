@@ -1,0 +1,8 @@
+server:
+  port: 9090
+jwt:
+  secret: secret
+
+app:
+  validationConfirmationMessage1: This is Admin Data!
+  validationConfirmationMessage2: This is User Data!

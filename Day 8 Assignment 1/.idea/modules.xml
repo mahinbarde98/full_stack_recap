@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api_gateway_routing_exercise_boilerplate/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/api_gateway_routing_exercise_boilerplate/ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 8 Assignment 1.iml" filepath="$PROJECT_DIR$/.idea/Day 8 Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_gateway_routing_exercise_boilerplate/api_gateway_routing_exercise_boilerplate.iml" filepath="$PROJECT_DIR$/api_gateway_routing_exercise_boilerplate/api_gateway_routing_exercise_boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_gateway_routing_exercise_boilerplate/blog-service/blog-service.iml" filepath="$PROJECT_DIR$/api_gateway_routing_exercise_boilerplate/blog-service/blog-service.iml" />
+    </modules>
+  </component>
+</project>

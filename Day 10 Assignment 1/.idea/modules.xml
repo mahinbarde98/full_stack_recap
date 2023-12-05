@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 10 Assignment 1.iml" filepath="$PROJECT_DIR$/.idea/Day 10 Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate/consumer-service/consumer-service.iml" filepath="$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate/consumer-service/consumer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate.iml" filepath="$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate/producer-service/producer-service.iml" filepath="$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise_boilerplate/producer-service/producer-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 9 Assignment 1.iml" filepath="$PROJECT_DIR$/.idea/Day 9 Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_config_server_boilerplate/blog-service/blog-service.iml" filepath="$PROJECT_DIR$/maincourse_config_server_boilerplate/blog-service/blog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_config_server_boilerplate/config-service/config-service.iml" filepath="$PROJECT_DIR$/maincourse_config_server_boilerplate/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_config_server_boilerplate/maincourse_config_server_boilerplate.iml" filepath="$PROJECT_DIR$/maincourse_config_server_boilerplate/maincourse_config_server_boilerplate.iml" />
+    </modules>
+  </component>
+</project>

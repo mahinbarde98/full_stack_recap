@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 8 Assignment 2.iml" filepath="$PROJECT_DIR$/.idea/Day 8 Assignment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_eureka_server_boilerplate/blog-service/blog-service.iml" filepath="$PROJECT_DIR$/maincourse_eureka_server_boilerplate/blog-service/blog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_eureka_server_boilerplate/maincourse_eureka_server_boilerplate.iml" filepath="$PROJECT_DIR$/maincourse_eureka_server_boilerplate/maincourse_eureka_server_boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_eureka_server_boilerplate/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/maincourse_eureka_server_boilerplate/service-registry/service-registry.iml" />
+    </modules>
+  </component>
+</project>

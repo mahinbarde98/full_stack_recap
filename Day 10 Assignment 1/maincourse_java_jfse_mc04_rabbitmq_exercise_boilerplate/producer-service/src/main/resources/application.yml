@@ -1,0 +1,5 @@
+app:
+  message: Message sent to the RabbitMQ queue Successfully
+server:
+  port: 9090
+#Specify rabbitMQ configuration

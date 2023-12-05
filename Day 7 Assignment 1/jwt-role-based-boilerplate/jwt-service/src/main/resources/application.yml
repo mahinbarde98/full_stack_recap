@@ -1,0 +1,36 @@
+server:
+  port: 9099
+
+jwt:
+  secret: secret
+spring:
+  h2:
+    console:
+      enabled: true
+  database:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+
+app:
+  seeddata:
+    id1: meghna@email.com
+    id2: john@email.com
+    password1: meghna@123
+    password2: john@123
+    role1: USER
+    role2: ADMIN
+    logMessage: Loaded users...
+  jwttoken:
+    message: Login Successful
+  controller:
+    exception:
+      message1: Id and Password Empty
+      message2: Id and Password not found
+      message3: Id and Password invalid
+  service:
+    message1: User Already Exists
+    message2: Invalid Id and Password

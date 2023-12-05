@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 7 Assignment 1.iml" filepath="$PROJECT_DIR$/.idea/Day 7 Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-role-based-boilerplate/app-service/app-service.iml" filepath="$PROJECT_DIR$/jwt-role-based-boilerplate/app-service/app-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-role-based-boilerplate/jwt-service/jwt-service.iml" filepath="$PROJECT_DIR$/jwt-role-based-boilerplate/jwt-service/jwt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-role-based-boilerplate/maincourse_java_jfse_mc04_jwt_exercise.iml" filepath="$PROJECT_DIR$/jwt-role-based-boilerplate/maincourse_java_jfse_mc04_jwt_exercise.iml" />
+    </modules>
+  </component>
+</project>
